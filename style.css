@@ -41,3 +41,11 @@ a {
   color: rgb(0, 0, 0);
   font:500;
 }
+h5 {
+  font-family:'Open Sans';
+  font-size: 12.5px;
+  font: 300;
+  color: black;
+  float: left;
+  padding-left: 30px;
+}

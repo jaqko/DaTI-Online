@@ -1,7 +1,43 @@
 body {
   text-align: center;
 }
-h2 {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  font: 400;
+#demo {
+  font-family:'Roboto Mono';
+  font-size: 30px;
+  font: 500;
+  color: black;
+}
+.button {
+  background-color: black;
+  border: none;
+  font-family:'Open Sans';
+  font:500;
+  color: white;
+  padding: 10px 27px;
+  text-decoration: none;
+  font-size: 19px;
+  margin:-40px;
+  cursor: pointer;
+  border-radius: 7.5px;
+}
+h6 {
+  font-family:'Open Sans';
+  font-size: 15px;
+  font: 500;
+  color: black;
+}
+.section {
+  margin: 100px;
+}
+p {
+    font-family:'Open Sans';
+  font-size: 15px;
+  font: 300;
+  color: black;
+}
+a {
+  font-family: 'Roboto Mono';
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  font:500;
 }
